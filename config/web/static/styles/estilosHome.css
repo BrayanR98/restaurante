@@ -29,3 +29,15 @@
 .zoom:hover{
     transform: scale(1.1);
 }
+.fot{
+    background-color: #0db804;
+    
+}
+.cmapa{
+    background-color: #0db804;
+}
+
+.fotofoter{
+    width: 500px;
+    height: 250px;
+}
